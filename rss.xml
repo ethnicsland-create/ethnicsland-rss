@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Ethnics Land – Indian Handloom Blog</title>
+    <link>https://ethnicsland.com/blogs/indian-handloom-blog</link>
+    <description>Discover Indian handloom sarees, weaving traditions, fabrics, artisans, styling ideas and the stories behind India's rich textile heritage.</description>
+    <language>en-IN</language>
+    <lastBuildDate>Thu, 03 Sep 2026 00:00:00 +0530</lastBuildDate>
+
+    <item>
+      <title>Ethnics Land Indian Handloom Blog</title>
+      <link>https://ethnicsland.com/blogs/indian-handloom-blog</link>
+      <guid isPermaLink="true">https://ethnicsland.com/blogs/indian-handloom-blog</guid>
+      <description>Explore the world of authentic Indian handloom sarees, traditional textiles, weaving techniques, regional crafts and modern saree styling at Ethnics Land.</description>
+    </item>
+
+  </channel>
+</rss>
